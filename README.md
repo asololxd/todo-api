@@ -1,4 +1,3 @@
-```
 # Serverless Todo API
 A serverless REST API built on AWS with no servers to manage. Create, read, update, and delete tasks via HTTP — runs on Lambda, API Gateway, and DynamoDB, entirely within free tier.
 
