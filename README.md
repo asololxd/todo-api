@@ -78,4 +78,3 @@ aws apigateway create-rest-api --name todo-api --endpoint-configuration types=RE
 
 ## Stack
 Lambda · API Gateway · DynamoDB · IAM · AWS CLI · Python
-```
